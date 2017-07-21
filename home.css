@@ -1,0 +1,82 @@
+/* LAYOUT STYLE
+	Author : S.Monte aka Oreò
+ 	 Licenza Creative Commons Attribuzione - Non commerciale - Non opere derivate 3.0 Unported.
+*/
+
+/* FONT */
+body {
+	font-size: 14px;
+}
+p, h1, h2, h3, h4, h5, h6, b, li, ul{
+	font-family: Verdana, Geneva, sans-serif;
+	text-align: center;
+	line-height: 17px;
+	color: #000;
+}
+p {
+	font-size: 1em;
+}
+p a, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, b a {
+	color: #111;
+	text-decoration: none;
+}
+p a:hover, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, b a:hover {
+	text-decoration: underline;
+}
+
+/* contenitore del logo */
+#wrapper {
+	background-color: rgba(255,255,255,0.8);
+}
+#wrapperLogo {
+	height: 120px;
+	width: 960px;
+}
+	#wrapperLogo img{
+		height: 110px;
+		width: 326px;
+		left: 50%;
+		position: relative;
+		margin: 10px 0 0 -163px;
+	}
+/* contenitore delle icone/link che portano ai vari siti NosSimulator*/
+#wrapperIcone {
+	height: 60px; /* +padding-top 40px = 100px*/
+	width: 960px;
+	padding-top: 40px;
+}
+	#wrapperIcone div {
+		height: 60px;
+		width: 60px;
+		margin-left: 10px;
+	}
+	/* class first alla prima icona per centrare tutte le icone */
+	#wrapperIcone .first { margin-left: 415px; } /* LarghezzaIcone(60)*NumeroIcone + 10*(NumeroIcone-1)<- per margin-left */
+	
+	#wrapperIcone a {
+		display: block;
+		line-height: 60px;
+	}
+	#spIcona { background-image: url(imgStandard/sp.jpg); }
+	#equipIcona { background-image: url(imgStandard/equip.jpg); }
+	
+	#spIcona a:hover { background-image: url(imgStandard/spHover.jpg); }
+	#equipIcona a:hover { background-image: url(imgStandard/equipHover.jpg); }
+	
+/* contenitore dei ringraziamenti e contatti*/
+#wrapperThanks {
+	height: 200px;
+	width: 960px;
+	margin-top: 20px;
+}
+	
+/* contenitore license cc e nominativi veri */
+#license {
+	height: 100px;
+	width: 960px;
+	text-align: center; /* assegno l'img come inline-block (sotto) e con questo la centro*/
+	margin-top: 30px;
+}
+	#license img {
+		display: inline-block; /* grazie al text-align dichiarato del genitore (sopra) la centro */
+	}
