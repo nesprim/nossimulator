@@ -472,38 +472,38 @@ arrayDannoCritico = [0,
 
 arrayDifesaCorpo = [0,
     //Tunica
-    [0, 37, 39, 40, 47, 52, 55, 70, 63, 64, 74, 74, 76, 82, 88, 90, 119, 116, 100, 101, 118, 124, 126, 139, 142, 151, 175, 195, 215, 107, 270, 354],
+    [0, 37, 39, 40, 47, 52, 55, 70, 63, 64, 74, 74, 76, 82, 88, 90, 119, 116, 100, 101, 118, 124, 126, 139, 142, 151, 175, 195, 215, 107, 270, 354, 430, 455],
     //Armatura
-    [0, 59, 62, 67, 75, 83, 90, 100, 101, 111, 114, 119, 129, 132, 143, 148, 170, 156, 161, 163, 179, 192, 200, 220, 241, 235, 280, 310, 370, 259, 427, 565],
+    [0, 59, 62, 67, 75, 83, 90, 100, 101, 111, 114, 119, 129, 132, 143, 148, 170, 156, 161, 163, 179, 192, 200, 220, 241, 235, 280, 310, 370, 259, 427, 565, 634, 584],
     //Toga
-    [0, 33, 34, 38, 46, 45, 50, 52, 55, 66, 62, 65, 68, 74, 77, 81, 84, 101, 87, 89, 104, 113, 114, 125, 121, 132, 170, 155, 190, 133, 245, 379]
+    [0, 33, 34, 38, 46, 45, 50, 52, 55, 66, 62, 65, 68, 74, 77, 81, 84, 101, 87, 89, 104, 113, 114, 125, 121, 132, 170, 155, 190, 133, 245, 379, 410, 380]
 ];
 
 arrayDifesaDistanza = [0,
     //Tunica
-    [0, 46, 48, 52, 58, 64, 68, 74, 78, 80, 90, 92, 97, 102, 110, 112, 120, 135, 124, 126, 142, 160, 171, 188, 183, 193, 230, 250, 275, 137, 331, 422],
+    [0, 46, 48, 52, 58, 64, 68, 74, 78, 80, 90, 92, 97, 102, 110, 112, 120, 135, 124, 126, 142, 160, 171, 188, 183, 193, 230, 250, 275, 137, 331, 422, 495, 455],
     //Armatura
-    [0, 55, 57, 64, 69, 76, 83, 88, 93, 96, 105, 110, 117, 122, 132, 134, 169, 144, 148, 151, 165, 176, 181, 199, 214, 203, 240, 260, 300, 210, 357, 494],
+    [0, 55, 57, 64, 69, 76, 83, 88, 93, 96, 105, 110, 117, 122, 132, 134, 169, 144, 148, 151, 165, 176, 181, 199, 214, 203, 240, 260, 300, 210, 357, 494, 544, 504],
     //Toga
-    [0, 37, 39, 42, 47, 52, 53, 60, 63, 64, 71, 74, 79, 86, 88, 92, 96, 106, 100, 101, 118, 136, 144, 159, 152, 163, 215, 195, 240, 168, 295, 430]
+    [0, 37, 39, 42, 47, 52, 53, 60, 63, 64, 71, 74, 79, 86, 88, 92, 96, 106, 100, 101, 118, 136, 144, 159, 152, 163, 215, 195, 240, 168, 295, 430, 481, 441]
 ];
 
 arrayDifesaMagia = [0,
     //Tunica
-    [0, 48, 50, 56, 60, 67, 69, 77, 81, 84, 92, 96, 98, 107, 115, 117, 126, 161, 130, 132, 155, 162, 170, 187, 182, 194, 230, 250, 275, 137, 331, 427],
+    [0, 48, 50, 56, 60, 67, 69, 77, 81, 84, 92, 96, 98, 107, 115, 117, 126, 161, 130, 132, 155, 162, 170, 187, 182, 194, 230, 250, 275, 137, 331, 427, 495, 457],
     //Armatura
-    [0, 37, 39, 40, 51, 52, 55, 60, 63, 74, 79, 74, 84, 82, 88, 101, 121, 96, 100, 101, 126, 122, 133, 147, 142, 145, 160, 170, 200, 140, 255, 390],
+    [0, 37, 39, 40, 51, 52, 55, 60, 63, 74, 79, 74, 84, 82, 88, 101, 121, 96, 100, 101, 126, 122, 133, 147, 142, 145, 160, 170, 200, 140, 255, 390, 421, 391],
     //Toga
-    [0, 55, 57, 60, 69, 76, 79, 88, 93, 96, 105, 110, 112, 122, 132, 134, 144, 159, 148, 151, 160, 190, 197, 217, 209, 219, 310, 270, 350, 245, 392, 529]
+    [0, 55, 57, 60, 69, 76, 79, 88, 93, 96, 105, 110, 112, 122, 132, 134, 144, 159, 148, 151, 160, 190, 197, 217, 209, 219, 310, 270, 350, 245, 392, 529, 599, 549]
 ];
 
 arrayElusione = [0,
     //Tunica
-    [0, 107, 111, 115, 131, 143, 147, 163, 171, 175, 191, 199, 203, 219, 235, 239, 255, 255, 263, 267, 283, 305, 311, 342, 331, 347, 405, 437, 465, 232, 487, 519],
+    [0, 107, 111, 115, 131, 143, 147, 163, 171, 175, 191, 199, 203, 219, 235, 239, 255, 255, 263, 267, 283, 305, 311, 342, 331, 347, 405, 437, 465, 232, 487, 519, 519, 593],
     //Armatura
-    [0, 82, 86, 90, 106, 118, 122, 138, 146, 150, 166, 174, 178, 194, 210, 214, 230, 230, 238, 242, 258, 275, 286, 310, 317, 322, 370, 387, 400, 280, 424, 454],
+    [0, 82, 86, 90, 106, 118, 122, 138, 146, 150, 166, 174, 178, 194, 210, 214, 230, 230, 238, 242, 258, 275, 286, 310, 317, 322, 370, 387, 400, 280, 424, 454, 454, 469],
     //Toga
-    [0, 97, 101, 105, 121, 133, 137, 153, 161, 165, 181, 189, 193, 209, 225, 229, 245, 245, 253, 257, 273, 285, 301, 331, 331, 337, 397, 375, 415, 290, 447, 469]
+    [0, 97, 101, 105, 121, 133, 137, 153, 161, 165, 181, 189, 193, 209, 225, 229, 245, 245, 253, 257, 273, 285, 301, 331, 331, 337, 397, 375, 415, 290, 447, 469, 469, 518]
 ];
 
 arrayPrezzo = [0,
@@ -649,7 +649,10 @@ arrayEffetto = [0,
     "Durante l'attacco, diminuisce la<br />Resistenza dell'Avversario di 14.<br />Aumenta l'Energia di tutti gli<br />Elementi di 150.<br />Con una probabilità del 25%<br />aumenta il danno fino al 40%.",
     "Durante l'attacco, diminuisce la<br />Resistenza dell'Avversario di 13.<br />Aumenta l'Energia di tutti gli<br />Elementi di 150.<br />Con una probabilità del 25%<br />aumenta il danno fino al 35%.",
     "Durante l'attacco, diminuisce la<br />Resistenza dell'Avversario di 16.<br />Aumenta l'Energia di tutti gli<br />Elementi di 160.<br />Con una probabilità del 25%<br />aumenta il danno fino al 45%.",
-    "Durante l'attacco, diminuisce la<br />Resistenza dell'Avversario di 20.<br />Aumenta l'Energia di tutti gli<br />Elementi di 160.<br />Con una probabilità del 30%<br />aumenta il danno fino al 45%.", //
+    "Durante l'attacco, diminuisce la<br />Resistenza dell'Avversario di 20.<br />Aumenta l'Energia di tutti gli<br />Elementi di 160.<br />Con una probabilità del 30%<br />aumenta il danno fino al 45%.",
+    "Durante l'attacco, diminuisce la<br />Resistenza dell'Avversario di 20.<br />Aumenta l'Energia di tutti gli<br />Elementi di 160.<br />Con una probabilità del 30%<br />aumenta il danno fino al 45%.",
+    "Durante l'attacco, diminuisce la<br />Resistenza dell'Avversario di 20.<br />Aumenta l'Energia di tutti gli<br />Elementi di 160.<br />Con una probabilità del 30%<br />aumenta il danno fino al 45%."
+
     ],
     //Spada
     [0,
@@ -691,6 +694,8 @@ arrayEffetto = [0,
     "Durante l'attacco, diminuisce la<br />Resistenza dell'Avversario di 15.<br />Aumenta l'Energia di tutti gli<br />Elementi di 175.<br />Con una probabilità del 40%<br />aumenta il danno fino al 20%.",
     "Durante l'attacco, diminuisce la<br />Resistenza dell'Avversario di 20.<br />Aumenta l'Energia di tutti gli<br />Elementi di 180.<br />Con una probabilità del 40%<br />aumenta il danno fino al 30%.",
     "Durante l'attacco, diminuisce la<br />Resistenza dell'Avversario di 20.<br />Aumenta l'Energia di tutti gli<br />Elementi di 185.<br />Con una probabilità del 40%<br />aumenta il danno fino al 35%.",
+    "Durante l'attacco, diminuisce la<br />Resistenza dell'Avversario di 20.<br />Aumenta l'Energia di tutti gli<br />Elementi di 185.<br />Con una probabilità del 40%<br />aumenta il danno fino al 35%.",
+    "Durante l'attacco, diminuisce la<br />Resistenza dell'Avversario di 20.<br />Aumenta l'Energia di tutti gli<br />Elementi di 185.<br />Con una probabilità del 40%<br />aumenta il danno fino al 35%."
     ],
     //Scettro
     [0,
@@ -732,6 +737,8 @@ arrayEffetto = [0,
     "Durante l'attacco, diminuisce la<br />Resistenza dell'Avversario di 15.<br />Aumenta l'Energia di tutti gli<br />Elementi di 180.<br />Con una probabilità del 20%<br />aumenta il danno fino al 40%.<br />Aumena gli MP di 6.000.",
     "Durante l'attacco, diminuisce la<br />Resistenza dell'Avversario di 19.<br />Aumenta l'Energia di tutti gli<br />Elementi di 200.<br />Con una probabilità del 20%<br />aumenta il danno fino al 45%.<br />Aumena gli MP di 7.000.",
     "Durante l'attacco, diminuisce la<br />Resistenza dell'Avversario di 21.<br />Aumenta l'Energia di tutti gli<br />Elementi di 220.<br />Con una probabilità del 25%<br />aumenta il danno fino al 50%.<br />Aumenta gli MP di 8.000.",
+    "Durante l'attacco, diminuisce la<br />Resistenza dell'Avversario di 21.<br />Aumenta l'Energia di tutti gli<br />Elementi di 220.<br />Con una probabilità del 25%<br />aumenta il danno fino al 50%.<br />Aumenta gli MP di 8.000.",
+    "Durante l'attacco, diminuisce la<br />Resistenza dell'Avversario di 21.<br />Aumenta l'Energia di tutti gli<br />Elementi di 220.<br />Con una probabilità del 25%<br />aumenta il danno fino al 50%.<br />Aumenta gli MP di 8.000."
     ],
     //Pugnale
     [0,
@@ -757,6 +764,8 @@ arrayEffetto = [0,
     "Con una probabilità del 4%<br />aumenta il danno fino al 60%.<br />Aumenta il Livello dell'Obbiettivo perzbr />tutti gli attacchi di 100.<br />Durante l'attacco, diminuisce la<br />Resistenza dell'Avversario di 5.",
     "Con una probabilità del 6%<br />aumenta il danno fino al 60%.<br />Aumenta il Livello dell'Obbiettivo perzbr />tutti gli attacchi di 100.<br />Aumenta l'Energia di tutti gli<br />Elementi di 8.<br />Durante l'attacco, diminuisce la<br />Resistenza dell'Avversario di 8.",
     "Con una probabilità del 6%<br />aumenta il danno fino al 65%.<br />Aumenta il Livello dell'Obbiettivo per<br />tutti gli attacchi di 100.<br />Aumenta l'Energia di tutti gli<br />Elementi di 10.<br />Durante l'attacco, diminuisce la<br />Resistenza dell'Avversario di 10.",
+    "Con una probabilità del 6%<br />aumenta il danno fino al 65%.<br />Aumenta il Livello dell'Obbiettivo per<br />tutti gli attacchi di 100.<br />Aumenta l'Energia di tutti gli<br />Elementi di 10.<br />Durante l'attacco, diminuisce la<br />Resistenza dell'Avversario di 10.",
+    "Con una probabilità del 6%<br />aumenta il danno fino al 65%.<br />Aumenta il Livello dell'Obbiettivo per<br />tutti gli attacchi di 100.<br />Aumenta l'Energia di tutti gli<br />Elementi di 10.<br />Durante l'attacco, diminuisce la<br />Resistenza dell'Avversario di 10."
     ],
     //Balestra
     [0,
@@ -782,6 +791,8 @@ arrayEffetto = [0,
     "Aumenta tutte le Resistenze di 5.<br />Durante l'attacco, diminuisce la<br />Resistenza dell'Avversario di 8.<br />Aumenta l'Attacco di 145.<br />Aumenta la Difesa di 145.",
     "Aumenta l'Energia di tutti gli<br />Elementi di 10.<br />Durante l'attacco, diminuisce la<br />Resistenza dell'Avversario di 10.<br />Aumenta l'Attacco di 165.<br />Aumenta la Difesa di 165.",
     "Aumenta l'Energia di tutti gli<br />Elementi di 12.<br />Durante l'attacco, diminuisce la<br />Resistenza dell'Avversario di 12.<br />Aumenta l'Attacco di 190.<br />Aumenta la Difesa di 190.",
+    "Aumenta l'Energia di tutti gli<br />Elementi di 12.<br />Durante l'attacco, diminuisce la<br />Resistenza dell'Avversario di 12.<br />Aumenta l'Attacco di 190.<br />Aumenta la Difesa di 190.",
+    "Aumenta l'Energia di tutti gli<br />Elementi di 12.<br />Durante l'attacco, diminuisce la<br />Resistenza dell'Avversario di 12.<br />Aumenta l'Attacco di 190.<br />Aumenta la Difesa di 190."
     ],
     //Pistola
     [0,
@@ -807,6 +818,8 @@ arrayEffetto = [0,
     "Durante l'Attacco diminuisce la<br />Resistenza dell'Avversario di 6.<br />Con una probabilità del 15%<br />aumenta il danno fino al 20%.<br />Aumenta gli MP di 1.000.",
     "Durante l'Attacco diminuisce la<br />Resistenza dell'Avversario di 8.<br />Con una probabilità del 20%<br />aumenta il danno fino al 30%.<br />Aumenta gli MP di 1.400.",
     "Durante l'Attacco diminuisce la<br />Resistenza dell'Avversario di 10.<br />Con una probabilità del 25%<br />aumenta il danno fino al 30%.<br />Aumenta gli MP di 1.600.",
+    "Durante l'Attacco diminuisce la<br />Resistenza dell'Avversario di 10.<br />Con una probabilità del 25%<br />aumenta il danno fino al 30%.<br />Aumenta gli MP di 1.600.",
+    "Durante l'Attacco diminuisce la<br />Resistenza dell'Avversario di 10.<br />Con una probabilità del 25%<br />aumenta il danno fino al 30%.<br />Aumenta gli MP di 1.600."
     ],
     //Tunica
     [0,
@@ -841,6 +854,8 @@ arrayEffetto = [0,
     "Diminuisce la possibilità di ricevere<br />un Colpo Critico del 6%.<br />Diminuisce il danno dei Colpi Critici<br />del 40%.<br />Aumenta l'Evasione da qualsiasi<br />attacco di 100.<br />Aumenta gli HP massimi di 2.000.",
     "Diminuisce la possibilità di ricevere<br />un Colpo Critico del 8%.<br />Diminuisce il danno dei Colpi Critici<br />del 45%.<br />Aumenta l'Evasione da qualsiasi<br />attacco di 100.<br />Aumenta gli HP massimi di 2.500.",
     "Diminuisce la possibilità di ricevere<br />un Colpo Critico del 10%.<br />Diminuisce il danno dei Colpi Critici<br />del 45%.<br />Aumenta l'Evasione da qualsiasi<br />attacco di 100.<br />Aumenta gli HP massimi di 3.500.",
+    "Diminuisce la possibilità di ricevere<br />un Colpo Critico del 10%.<br />Diminuisce il danno dei Colpi Critici<br />del 45%.<br />Aumenta l'Evasione da qualsiasi<br />attacco di 100.<br />Aumenta gli HP massimi di 3.500.",
+    "Diminuisce la possibilità di ricevere<br />un Colpo Critico del 10%.<br />Diminuisce il danno dei Colpi Critici<br />del 45%.<br />Aumenta l'Evasione da qualsiasi<br />attacco di 100.<br />Aumenta gli HP massimi di 3.500."
     ],
     //Armatura
     [0,
@@ -875,6 +890,8 @@ arrayEffetto = [0,
     "Diminuisce il danno dei Colpi Critici<br />del 50%.<br />Diminuisce la possibilità di ricevere<br />un Colpo Critico del 5%,<br />Aumenta gli HP massimi di 3.000.<br />Aumenta tutte le Resistenze di 2.",
     "Diminuisce il danno dei Colpi Critici<br />del 60%.<br />Diminuisce la possibilità di ricevere<br />un Colpo Critico del 7%,<br />Aumenta gli HP massimi di 4.000.<br />Aumenta tutte le Resistenze di 5.",
     "Diminuisce il danno dei Colpi Critici<br />del 60%.<br />Diminuisce la possibilità di ricevere<br />un Colpo Critico del 9%,<br />Aumenta gli HP massimi di 5.000.<br />Aumenta tutte le Resistenze di 10.",
+    "Diminuisce il danno dei Colpi Critici<br />del 60%.<br />Diminuisce la possibilità di ricevere<br />un Colpo Critico del 9%,<br />Aumenta gli HP massimi di 5.000.<br />Aumenta tutte le Resistenze di 10.",
+    "Diminuisce il danno dei Colpi Critici<br />del 60%.<br />Diminuisce la possibilità di ricevere<br />un Colpo Critico del 9%,<br />Aumenta gli HP massimi di 5.000.<br />Aumenta tutte le Resistenze di 10."
     ],
     //Toga
     [0,
@@ -909,6 +926,8 @@ arrayEffetto = [0,
     "Diminuisce la possibilità di ricevere<br />un Colpo Critico del 7%.<br />Aumenta gli HP massimi di 4.000.<br />Diminuisce il danno dei Colpi Critici<br />del 35%.<br />Aumenta tutte le Resistenze di 2.",
     "Diminuisce la possibilità di ricevere<br />un Colpo Critico del 9%.<br />Aumenta gli HP massimi di 5.000.<br />Diminuisce il danno dei Colpi Critici<br />del 40%.<br />Aumenta tutte le Resistenze di 5.",
     "Diminuisce la possibilità di ricevere<br />un Colpo Critico del 11%.<br />Aumenta gli HP massimi di 7.000.<br />Diminuisce il danno dei Colpi Critici<br />del 40%.<br />Aumenta tutte le Resistenze di 10.",
+    "Diminuisce la possibilità di ricevere<br />un Colpo Critico del 11%.<br />Aumenta gli HP massimi di 7.000.<br />Diminuisce il danno dei Colpi Critici<br />del 40%.<br />Aumenta tutte le Resistenze di 10.",
+    "Diminuisce la possibilità di ricevere<br />un Colpo Critico del 11%.<br />Aumenta gli HP massimi di 7.000.<br />Diminuisce il danno dei Colpi Critici<br />del 40%.<br />Aumenta tutte le Resistenze di 10."
     ]
 ];
 
@@ -953,6 +972,8 @@ arrayDescrizione = [0,
     "Un arco che racchiude la forza<br />dell'Eroe Dimenticato.",
     "Un arco che si piega al calore<br />ardente della Fenice.",
     "Un arco che trae la sua forza dalla<br />vita eterna del potente Gral.",
+    "Questo arco sintetizza<br />l'eterodossia di Hellord.",
+    "Questo arco sintetizza l'eterodossia<br />del Paradiso Mistico"
     ],
     //Spada
     [0,
@@ -994,6 +1015,8 @@ arrayDescrizione = [0,
     "Una spada che trae la sua energia<br />dallo spirito dell'Eroe Dimenticato.",
     "La Spada Infuocata è stata forgiata<br />con la collera di Magmaro.",
     "Questa spada racchiude la forza<br />magica di Valakus.",
+    "Spada investita dalla<br />maledizione di Hellord.",
+    "Spada consacrata nel<br />Paradiso Mistico"
     ],
     //Scettro
     [0,
@@ -1035,6 +1058,8 @@ arrayDescrizione = [0,
     "La bacchetta magica dell'Eroe<br />Dimenticato.",
     "Questa bacchetta è stata realizzata<br />con della lava rovente.",
     "La bacchetta magica che racchiude<br />la collera del Dio del Fuoco.",
+    "Bastone pervaso dal potere<br />del Dio della Luna.",
+    "Bastone pervaso dal potere<br />del Dio del Sole."
     ],
     //Pugnale
     [0,
@@ -1060,6 +1085,8 @@ arrayDescrizione = [0,
     "Un pugnale che trae la sua forza<br />dallo spirito dell'Eroe Dimenticato.",
     "Un pugnale che racchiude la forza<br />di un Cane Incandescente.",
     "Un pugnale che trae la sua forza<br />dall'energia malvagia di Kertos.",
+    "Pugnale proveniente<br />dall'Armeria di Hellord.",
+    "Pugnale proveniente dall'Armeria<br />del Paradiso Mistico."
     ],
     //Balestra
     [0,
@@ -1085,6 +1112,8 @@ arrayDescrizione = [0,
     "Una balestra che trae la sua forza<br />dallo spirito dell'Eroe Dimenticato.",
     "Una balestra che colpisce con la<br />forza del fuoco della lestissima<br />Fenice.",
     "Una balestra che racchiude<br />l'energia della potente Fenice.",
+    "Balestra pervasa dalla<br />forza di Hellord.",
+    "Balestra in cui fluisce il potere<br />del Paradiso Mistico."
     ],
     //Pistola
     [0,
@@ -1110,6 +1139,8 @@ arrayDescrizione = [0,
     "Una pistola magica che trae la sua<br >/forza dallo spirito dell'Eroe<br />Dimenticato.",
     "Un'arma magica che racchiude la<br />forza del respiro di Valakus.",
     "Questa è una pistola magica che<br />racchiude il respiro infuocato di<br />Valakus.",
+    "Pistola magica che trasforma<br />l'energia oscura in proiettili.",
+    "Pistola magica che trasforma<br />l'energia sacra in proiettili."
     ],
     //Tunica
     [0,
@@ -1144,6 +1175,8 @@ arrayDescrizione = [0,
     "Un'armatura in pelle che racchiude<br />la forza dell'Eroe Dimenticato.",
     "Un'armatura in pelle che racchiude<br />la destrezza del Cane<br />Incandescente.",
     "Una corazza di pelle forte e<br />resistente come Kertos.",
+    "Armatura in pelle realizzata<br />con l'energia oscura.",
+    "Armatura in pelle realizzata<br />con l'energia sacra."
     ],
     //Armatura
     [0,
@@ -1178,6 +1211,8 @@ arrayDescrizione = [0,
     "Una corazza che racchiude la forza<br />dell'Eroe Dimenticato.",
     "Un'armatura corazzata che<br />racchiude la forza di un Gigante<br />delle Fiamme.",
     "Una corazza che racchiude la forza<br />del Dio del Fuoco.",
+    "Armatura in pelle realizzata<br />con dell'energia oscura",
+    "Armatura realizzata<br />tramite forze sacre."
     ],
     //Toga
     [0,
@@ -1212,6 +1247,8 @@ arrayDescrizione = [0,
     "Una veste che racchiude la forza<br />dell'Eroe Dimenticato.",
     "Un vestito che racchiude lo<br />splendente calore della Fenice.",
     "Un vestito che si nutre dell'energia<br />vitale dello splendente Gral.",
+    "Veste realizzata con<br />del refe Maledetto.",
+    "Veste realizzata con<br />del refe consacrato."
     ]
 ];
 

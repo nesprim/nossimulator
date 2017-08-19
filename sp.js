@@ -106,7 +106,7 @@ $(document).ready(function(){
             }
             var c = "imgSp/wing.jpg";
             var h = "Ali d'Angelo";
-            if(t == "5" || t == "6" || t == "11" || t ==" 12"||t == "17"||t == "18"){
+            if(t == "5" || t == "6" || t == "7" t || t == "8" || t == "13" || t ==" 14" || t == "15" || t == "16" || t == "20" || t == "21" || t == "22" || t == "23" || t == "24"){
                 if(r <= 4){
                     var p = "imgSp/skin.jpg";
                     var d = "Pelli di Drago"
@@ -126,7 +126,7 @@ $(document).ready(function(){
                 }
                 else{
                     var p = "imgSp/none.jpg";
-                    var d = "Chuck Norris"
+                    var d = "//"
                 }
             }
             else{
@@ -154,7 +154,7 @@ $(document).ready(function(){
                 }
                 else{
                     var p = "imgSp/none.jpg";
-                    var d = "Chuck Norris"
+                    var d = "//"
                 }
             }
             if(r <= 9){
@@ -166,8 +166,8 @@ $(document).ready(function(){
                 var m = "Rotolo Rosso"
             }
             else{
-                var v = "imgSp/trollFace.jpg";
-                var m = "Troll Face"
+                var v = "imgSp/none.jpg";
+                var m = "//"
             }
             e("#wrapperMalcom #wrapperImgSmall img").attr({src:s, alt:o, title:o});
             e("#wrapperMate #gold img").attr({src:u, alt:a, title:a});
