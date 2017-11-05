@@ -149,8 +149,8 @@ arrayName = [0,
 	"Spada dell'Eroe Dimenticato(+10)",
 	"Spada Infuocata di Magmaro",
 	"Spada Infuocata di Valakus",
-	"Spada Inferno sigillata",
-	"Spada Paradiso sigillata"
+	"Spada Inferno Sigillata",
+	"Spada Paradiso Sigillata"
 	],
 	//Scettri
 	[0,
@@ -192,8 +192,8 @@ arrayName = [0,
 	"Bacchetta Magica dell'Eroe Dimenticato(+10)",
 	"Bacchetta del Fantasma Lavico",
 	"Bacchetta di Katol",
-	"Bastone Inferno sigillato"
-	"Basto Paradiso sigillato"
+	"Bastone Inferno Sigillato"
+	"Basto Paradiso Sigillato"
     ],
 	//Pugnali
 	[0,
@@ -219,8 +219,8 @@ arrayName = [0,
 	"Pugnale dell'Eroe Dimenticato(+10)",
 	"Canino del Cane Incandescente",
 	"Canino di Kertos",
-	"Pugnale Inferno sigillato",
-	"Pugnale Paradiso sigillato"
+	"Pugnale Inferno Sigillato",
+	"Pugnale Paradiso Sigillato"
 	],
 	//Balestre
 	[0,
@@ -246,8 +246,8 @@ arrayName = [0,
 	"Balestra dell'Eroe Dimenticato(+10)",
 	"Artiglio della Fenice",
 	"Artiglio di Gral",
-	"Balestra Inferno sigillata",
-	"Balestra Paradiso sigillata"
+	"Balestra Inferno Sigillata",
+	"Balestra Paradiso Sigillata"
 	],
 	//Pistole
 	[0,
@@ -273,8 +273,8 @@ arrayName = [0,
 	"Pistola Magica dell'Eroe Dimenticato (+10)",
 	"Soffio di Valaket",
 	"Respiro di Valakus",
-	"Pistola Magica Inferno sigillata",
-	"Pistola Magina Paradiso sigillata"
+	"Pistola Magica Inferno Sigillata",
+	"Pistola Magina Paradiso Sigillata"
 	],
 	//Tuniche
 	[0,
@@ -309,8 +309,8 @@ arrayName = [0,
 	"Armatura in Pelle dell'Eroe Dimenticato (+10)",
 	"Armatura in Pelle del Cane Incandescente",
 	"Corazza di Pelle di Kertos",
-	"Armatura Inferno pesante sigillata",
-	"Armatura Paradiso pensate sigillata"
+	"Armatura Inferno in Pelle Sigillata",
+	"Armatura Paradiso in Pelle Sigillata"
 	],
 	//Corazze
 	[0,
@@ -345,8 +345,8 @@ arrayName = [0,
 	"Corazza dell'Eroe Dimenticato (+10)",
 	"Armatura Corazzata del Gigante delle Fiamme",
 	"Corazza d'Acciaio di Katol",
-	"Armatura Inferno in pelle sigillata",
-	"Armatura Paradiso in pelle sigillata"
+	"Armatura Inferno Pesante Sigillata",
+	"Armatura Paradiso Pesante Sigillata"
 	],
 	//Toghe
 	[0,
@@ -381,8 +381,8 @@ arrayName = [0,
 	"Veste dell'Eroe Dimenticato (+10)",
 	"Vestito della Fenice Infuocata",
 	"Vestito di Gral Splendente",
-	"Veste Inferno sigillata",
-	"Veste Paradiso sigillata"
+	"Veste Inferno Sigillata",
+	"Veste Paradiso Sigillata"
 	]
 ];
 

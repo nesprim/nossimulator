@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="413a2a62-3e63-4963-ad3a-0660a14af3f9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgSp/Zx5u6HL.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imgSp/trollFace.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dbEq.js" afterPath="$PROJECT_DIR$/dbEq.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dbSp.js" afterPath="$PROJECT_DIR$/dbSp.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sp.js" afterPath="$PROJECT_DIR$/sp.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,16 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="sp.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sp.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="sp.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sp.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -69,11 +53,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dbEq.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dbEq.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dbEq.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="884">
-              <caret line="1297" column="94" lean-forward="false" selection-start-line="1297" selection-start-column="94" selection-end-line="1297" selection-end-column="94" />
+            <state relative-caret-position="21335">
+              <caret line="1255" column="16" lean-forward="false" selection-start-line="1255" selection-start-column="16" selection-end-line="1255" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dbSp.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dbSp.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="850">
+              <caret line="118" column="2" lean-forward="false" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -156,9 +150,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,21 +157,19 @@
               <item name="nossimulator" type="b2602c69:ProjectViewProjectNode" />
               <item name="nossimulator" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="nossimulator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nossimulator" type="462c0819:PsiDirectoryNode" />
-              <item name="imgSp" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="github&#9;ACTION&#9;Github.Share&#10;git&#9;ACTION&#9;Git.ContextMenu" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/Program Files (x86)/Nostale_IT" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="ReadonlyStatusHandler">
@@ -413,7 +402,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -427,7 +415,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13541667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09010417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -493,7 +481,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -674,13 +661,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dbSp.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="93" column="138" lean-forward="false" selection-start-line="93" selection-start-column="138" selection-end-line="93" selection-end-column="138" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/eq.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-765">
@@ -741,7 +721,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -798,8 +777,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dbEq.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="1297" column="94" lean-forward="false" selection-start-line="1297" selection-start-column="94" selection-end-line="1297" selection-end-column="94" />
+        <state relative-caret-position="21335">
+          <caret line="1255" column="16" lean-forward="false" selection-start-line="1255" selection-start-column="16" selection-end-line="1255" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbSp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="118" column="2" lean-forward="false" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="2" />
           <folding />
         </state>
       </provider>
